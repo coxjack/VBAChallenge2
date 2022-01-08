@@ -22,3 +22,12 @@ decide which Green Energy stocks should be invested in. We had data for 12 diffe
 **2017 Refactored Performance**
 
 ![2017 Refactored Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Resources/VBA_Challenge_2017.png)
+
+**2018 Original Performance**
+
+![2018 Original Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/2018%20Original%20Code%20Time.png)
+
+**2018 Refactored Performance**
+
+![2018 Refactored Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Resources/VBA_Challenge_2018.png)
+
