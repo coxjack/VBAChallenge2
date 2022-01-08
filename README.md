@@ -16,6 +16,9 @@ decide which Green Energy stocks should be invested in. We had data for 12 diffe
 * The refactoring of our code has lead to significantly improved runtimes. A 2.6 second improvement for 2017 and a 4.31 second improvement for 2018.
 
 **2017 Original Performance**
+
 ![2017 Original Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/2017%20Original%20Code%20Time.png)
+
 **2017 Refactored Performance**
+
 ![2017 Refactored Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Resources/VBA_Challenge_2017.png)
