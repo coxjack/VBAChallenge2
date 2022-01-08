@@ -8,7 +8,14 @@ decide which Green Energy stocks should be invested in. We had data for 12 diffe
 
 ## 2. Results
 ###
-* On the whole the stocks performed better in 2017 than in 2018. Only tickers "RUN" and "TERP" performed better in 2018.
+* On the whole the stocks performed better in 2017 than in 2018. Only tickers "RUN" and "TERP" performed better in 2018 (RUN up from 5.5% to 84% return, TERP up from -7.2% to -5% return).
 
 ![2017 Stock Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/2017%20All%20Stock%20Refactored%20Results.png)
 ![2018 Stock Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/2018%20All%20Stock%20Refactored%20Results.png)
+
+* The refactoring of our code has lead to significantly improved runtimes. A 2.6 second improvement for 2017 and a 4.31 second improvement for 2018.
+
+**2017 Original Performance**
+![2017 Original Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/2017%20Original%20Code%20Time.png)
+**2017 Refactored Performance**
+![2017 Refactored Performance](https://github.com/coxjack/VBAChallenge2/blob/main/Resources/VBA_Challenge_2017.png)
