@@ -35,3 +35,8 @@ decide which Green Energy stocks should be invested in. We had data for 12 diffe
 
 ![Refactored code](https://github.com/coxjack/VBAChallenge2/blob/main/Additional%20Supporting%20Images/Refactored%20Code.png)
 
+## 3. Summary
+###
+* The advantages of refactoring a code are that not only do you get improved code runtime as shown above, but also refactoring code can make it more clear and succinct for any reader of the code. Being able to write clear and quick performing code is the goal of any programmer.
+*The main disadvantage to refactoring code is that you do not always know it is going to be successful. You may spend time trying to change already successful working code and you may either come up with code which actually runs slower or even code that doesn't run at all.
+*For this specific task the pros were clear as we were able to improve the runtime of our code and make it easier and more clear to follow. The cons do not apply in this case because we were able to successfully improve the code.
